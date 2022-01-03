@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mozu1206.
 
-[![Masayuki Takahashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-ri-regen&theme=vue-dark&show_icons=true)](https://github.com/Mozu1206/github-readme-stats)
+[![Masayuki Takahashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mozu1206&theme=vue-dark&show_icons=true)](https://github.com/Mozu1206/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Mozu1206/github-readme-stats)
 
