@@ -1,8 +1,15 @@
 ### Hi there 👋 I'm Mozu1206.
-
+<!--
 [![Masayuki Takahashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mozu1206&theme=vue-dark&show_icons=true)](https://github.com/Mozu1206/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Mozu1206/github-readme-stats)
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mozu1206&theme=vue-dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact" />
+</a>
 
 <!--
 **Mozu1206/Mozu1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
