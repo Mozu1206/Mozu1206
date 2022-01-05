@@ -1,14 +1,10 @@
 ### Hi there 👋 I'm Mozu1206.
-<!--
-[![Masayuki Takahashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mozu1206&theme=vue-dark&show_icons=true)](https://github.com/Mozu1206/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Mozu1206/github-readme-stats)
--->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mozu1206&theme=vue-dark&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mozu1206&theme=vue-dark&show_icons=true&count_private=true" height="160px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact&exclude_repo=Yo-in,HNCamera,HNCamera_2" height="160px"/>
 </a>
 
 <!--
