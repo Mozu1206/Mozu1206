@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mozu1206&theme=vue-dark&show_icons=true&count_private=true" height="150px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact&exclude_repo=Yo-in,HNCamera,HNCamera_2" height="150px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozu1206&theme=vue-dark&show_icons=true&layout=compact" height="150px"/>
 </a>
 
 <!--
